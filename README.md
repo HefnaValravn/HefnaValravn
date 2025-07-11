@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HefnaValravn](https://github.com/HefnaValravn)
 
-- 📫 How to reach me **nicolabenedetti2005@gmail.com**
+- 📫 Reach me at **nicolabenedetti2005 (at) gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
