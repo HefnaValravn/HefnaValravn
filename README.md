@@ -19,5 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hefnavalravn&show_icons=true&locale=en&layout=compact" alt="hefnavalravn" /></p>
 
+![Languages](https://github-readme-metrics.vercel.app/api?username=hefnavalravn&template=classic&config.timezone=Europe%2FBrussels&plugin_languages=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hefnavalravn&show_icons=true&locale=en" alt="hefnavalravn" /></p>
 
