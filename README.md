@@ -23,6 +23,7 @@
 </p>
 
 <h3 align="left" style="color: #268bd2;">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,blender,cs,css,cypress,docker,express,git,githubactions,gherkin,html,java,js,jest,linux,md,nextjs,nodejs,npm,postgres,prisma,py,react,sass,sklearn,spring,tailwind,ts,unity)](https://skillicons.dev)
 
 
