@@ -14,7 +14,9 @@
   <li>📫 Reach me at <strong>nicolabenedetti2005 (at) gmail.com</strong></li>
 </ul>
 
-<h3 align="left" style="color: #268bd2;">Connect with me:</h3>
+<h3 align="left" style="color: #268bd2; margin-bottom: 25px;">Connect with me:</h3>
+
+<h3 align="left" style="color: #268bd2;">Languages and Tools:</h3>
 <p align="left" style="margin-bottom: 25px;">
   <a href="https://linkedin.com/in/nicolasbenedettigonzalez" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="36" width="48" style="background: #073642; border-radius: 8px; padding: 6px;" />
