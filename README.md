@@ -16,13 +16,13 @@
 
 <h3 align="left" style="color: #268bd2; margin-bottom: 25px;">Connect with me:</h3>
 
-<h3 align="left" style="color: #268bd2;">Languages and Tools:</h3>
 <p align="left" style="margin-bottom: 25px;">
   <a href="https://linkedin.com/in/nicolasbenedettigonzalez" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="36" width="48" style="background: #073642; border-radius: 8px; padding: 6px;" />
   </a>
 </p>
 
+<h3 align="left" style="color: #268bd2;">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,blender,cs,css,cypress,docker,express,git,githubactions,gherkin,html,java,js,jest,linux,md,nextjs,nodejs,npm,postgres,prisma,py,react,sass,sklearn,spring,tailwind,ts,unity)](https://skillicons.dev)
 
 
