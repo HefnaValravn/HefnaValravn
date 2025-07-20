@@ -22,19 +22,22 @@
   </a>
 </p>
 
-<h3 align="left" style="color: #268bd2;">Languages and Tools:</h3>
+<h3 align="left" style="color: #268bd2; margin-bottom: 25px;">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,blender,cs,css,cypress,docker,express,git,githubactions,gherkin,html,java,js,jest,linux,md,nextjs,nodejs,npm,postgres,prisma,py,react,sass,sklearn,spring,tailwind,ts,unity)](https://skillicons.dev)
 
+<h3 align="left" style="color: #268bd2; margin-top: 40px; margin-bottom: 25px;">GitHub Stats:</h3>
 
-<h3 align="left" style="color: #268bd2;">GitHub Stats:</h3>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" />
-</p>
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hefnavalravn&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true" />
-</p>
-
+<div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" 
+    style="max-width: 350px; flex: 1;"
+  />
+  <img 
+    alt="GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=hefnavalravn&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true" 
+    style="max-width: 350px; flex: 1;"
+  />
 </div>
+
