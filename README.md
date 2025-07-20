@@ -28,7 +28,7 @@
 
 <h3 align="left" style="color: #268bd2; margin-top: 40px; margin-bottom: 25px;">GitHub Stats:</h3>
 
-<div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap; margin-right: 25px;">
+<div style="display: flex; gap: 60px; justify-content: center; flex-wrap: wrap; margin-right: 25px;">
   <img 
     alt="Top Languages" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" 
@@ -40,4 +40,5 @@
     style="max-width: 350px; flex: 1;"
   />
 </div>
+
 
