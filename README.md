@@ -19,8 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hefnavalravn&show_icons=true&locale=en&layout=compact" alt="hefnavalravn" /></p>
 
-
-<p><img align="left" src="https://myreadme.vercel.app/api/embed/HefnaValravn?panels=toplanguages alt="hefnavalravn" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hefnavalravn&show_icons=true&locale=en" alt="hefnavalravn" /></p>
 
