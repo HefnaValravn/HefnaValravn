@@ -11,7 +11,7 @@
   <li>🔭 I’m currently working on <a href="https://github.com/HefnaValravn/3Dunity-minecraft-project" style="color: #b58900; text-decoration: none;">my unity Minecraft project</a></li>
   <li>🌱 I’m currently learning <strong>game design, robotics and python/bash scripting for my linux build</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/HefnaValravn" style="color: #b58900; text-decoration: none;">https://github.com/HefnaValravn</a></li>
-  <li>📫 Reach me at <strong>nicolabenedetti2005 (at) gmail.com</strong></li>
+  <li>📫 Reach me at <strong>30969370 (at) ucll.be</strong> or <strong>nicolabenedetti2005 (at) gmail.com</strong></li>
 </ul>
 
 <h3 align="left" style="color: #268bd2; margin-bottom: 25px;">Connect with me:</h3>
