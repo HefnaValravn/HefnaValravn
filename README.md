@@ -8,7 +8,7 @@
 </p>
 
 <ul style="list-style-type: none; padding-left: 0; color: #839496; font-size: 1.1rem;">
-  <li>🔭 I’m currently working on <a href="https://github.com/HefnaValravn/3Dunity-minecraft-project" style="color: #b58900; text-decoration: none;">my unity Minecraft project</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/HefnaValravn/Smartphone-Programming-Project" style="color: #b58900; text-decoration: none;">my Smartphone Programming project</a></li>
   <li>🌱 I’m currently learning <strong>game design, robotics and python/bash scripting for my linux build</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/HefnaValravn" style="color: #b58900; text-decoration: none;">https://github.com/HefnaValravn</a></li>
   <li>📫 Reach me at <strong>r0969370 (at) ucll.be</strong> or <strong>nicolabenedetti2005 (at) gmail.com</strong></li>
