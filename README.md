@@ -31,12 +31,12 @@
 <div style="display: flex; gap: 60px; justify-content: center; flex-wrap: wrap; margin-right: 25px;">
   <img 
     alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" 
     style="max-width: 350px; flex: 1;"
   />
   <img 
     alt="GitHub stats" 
-    src="https://github-readme-stats.vercel.app/api?username=hefnavalravn&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=hefnavalravn&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true" 
     style="max-width: 350px; flex: 1;"
   />
 </div>
