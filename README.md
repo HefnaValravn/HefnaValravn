@@ -34,11 +34,6 @@
     src="https://vercelstatshost.vercel.app/api/top-langs/?username=hefnavalravn&layout=compact&theme=solarized-dark" 
     style="max-width: 350px; flex: 1;"
   />
-  <img 
-    alt="GitHub stats" 
-    src="https://vercelstatshost.vercel.app/api?username=hefnavalravn&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true" 
-    style="max-width: 350px; flex: 1;"
-  />
 </div>
 
 
