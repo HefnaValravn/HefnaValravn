@@ -8,10 +8,10 @@
 </p>
 
 <ul style="list-style-type: none; padding-left: 0; color: #839496; font-size: 1.1rem;">
-  <li>🔭 I’m currently working on a VR Escape Room game for my Bachelor project</li>
+  <li>🔭 I’m currently learning game design & development as part of my Master's degree</li>
   <li>🌱 I’m currently learning <strong>game design, VR development and python/bash scripting for my linux build</strong></li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/HefnaValravn" style="color: #b58900; text-decoration: none;">https://github.com/HefnaValravn</a></li>
-  <li>📫 Reach me at <strong>r0969370 (at) ucll.be</strong> or <strong>nicolabenedetti2005 (at) gmail.com</strong></li>
+  <li>📫 Reach me at <strong>r0969370 (at) ucll.be</strong> or <strong>nico.bg2005 (at) proton.me</strong></li>
 </ul>
 
 <h3 align="left" style="color: #268bd2; margin-bottom: 25px;">Connect with me:</h3>
